@@ -4,7 +4,7 @@
   <a href="https://www.npmjs.com/package/@compactjs/limit" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/@compactjs/limit.svg">
   </a>
-  <a href="https://github.com/CompactJS/limit/blob/master/LICENSE" target="_blank">
+  <a href="https://github.com/CompactJS/limit/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/CompactJS/limit" />
   </a>
 </p>
@@ -109,7 +109,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Distributed under the [MIT](https://github.com/CompactJS/limit/blob/master/LICENSE) License.
+Distributed under the [MIT](https://github.com/CompactJS/limit/blob/main/LICENSE) License.
 
 ---
 
