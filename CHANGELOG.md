@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/CompactJS/limit/compare/v1.0.1...v1.1.0) (2021-04-19)
+
+
+### Features
+
+* reduce package size ([b4461ad](https://github.com/CompactJS/limit/commit/b4461ada1603a3e21866e46eddb93404cc9893fb))
+
 ## [1.0.1](https://github.com/CompactJS/limit/compare/v1.0.0...v1.0.1) (2020-06-22)
 
 
